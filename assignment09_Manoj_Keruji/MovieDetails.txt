@@ -1,0 +1,3 @@
+3,shole,Action,hindi,2002-02-02,amitabh bachhan,4.6,2555930
+4,dard,Action,hindi,2004-11-02,amir khan,4.1,353522
+6, dhoom, Action, eng,2020-11-11,john abrahim,5,42535
